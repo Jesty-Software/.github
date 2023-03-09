@@ -11,13 +11,13 @@
 
 - 🤝 We're looking for help with [Nexus Cash](https://jetsy.net/nexus)
 
-- 👨‍💻 All of our projects are available at [https://jetsy.net/github](https://jetsy.net/github)
+- 👨‍💻 All of our projects are available at [https://nelmin.com/github](https://jetsy.net/github)
 
-- 📝 We regularly write articles on [https://jetsy.net/blog](https://jetsy.net/blog)
+- 📝 We regularly write articles on [https://nelmin.com/blog](https://jetsy.net/blog)
 
 - 💬 Ask me about **SvelteKit and JavaScript**
 
-- 📫 How to reach me **team@contact.jetsy.net**
+- 📫 How to reach me **team@contact.nelmin.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
