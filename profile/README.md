@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 We're currently working on [Nexus Cash](https://jetsy.net/nexus)
+- 🔭 We're currently working on [FriendFinder](https://github.com/Nelmin-Software/friendfinder-app/)
 
-- 🌱 We are using mostly **SvelteKit and TypeScript**
+- 🌱 We are using mostly **Kotlin**
 
-- 🤝 We're looking for help with [Nexus Cash](https://jetsy.net/nexus)
+- 🤝 We're looking for help with [FriendFinder](https://github.com/Nelmin-Software/friendfinder-app/)
 
-- 👨‍💻 All of our projects are available at [https://nelmin.com/github](https://jetsy.net/github)
+- 👨‍💻 All of our projects are available at [GitHub](https://github.com/Nelmin-Software/)
 
-- 📝 We regularly write articles on [https://nelmin.com/blog](https://jetsy.net/blog)
+<!--- 📝 We regularly write articles on [https://jetsy.net/blog](https://jetsy.net/blog) --->
 
-- 💬 Ask me about **SvelteKit and JavaScript**
+- 💬 Ask us about **Kotlin and Java**
 
-- 📫 How to reach me **team@contact.nelmin.com**
+- 📫 How to reach us **support@nelmin.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/CKbwbsBnfv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CKbwbsBnfv" height="30" width="40" /></a>
+<a href="https://discord.gg/4tKm8Bw7tp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CKbwbsBnfv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
